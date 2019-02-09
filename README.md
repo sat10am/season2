@@ -11,4 +11,4 @@ The second season with 10 genius developers on the subject of JavaScript and HTT
 
 ## 1주차
 
-오리엔테이션
+[오리엔테이션](https://slides.com/doondoon/sat10am-is-back/fullscreen)

@@ -1,5 +1,5 @@
-# season2
-The second season with 10 genius developers on the subject of JavaScript
+# SAT10AM SEASON 2
+The second season with 10 genius developers on the subject of JavaScript and HTTP Network
 
 📆 기간: 2019.02.10 - 2019.06.29
 
